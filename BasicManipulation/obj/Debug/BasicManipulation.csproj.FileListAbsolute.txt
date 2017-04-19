@@ -1,0 +1,13 @@
+c:\users\alexi\onedrive\documents\visual studio 2015\Projects\BasicManipulation\BasicManipulation\bin\Debug\BasicManipulation.exe.config
+c:\users\alexi\onedrive\documents\visual studio 2015\Projects\BasicManipulation\BasicManipulation\bin\Debug\BasicManipulation.exe
+c:\users\alexi\onedrive\documents\visual studio 2015\Projects\BasicManipulation\BasicManipulation\bin\Debug\BasicManipulation.pdb
+c:\users\alexi\onedrive\documents\visual studio 2015\Projects\BasicManipulation\BasicManipulation\obj\Debug\BasicManipulation.csprojResolveAssemblyReference.cache
+c:\users\alexi\onedrive\documents\visual studio 2015\Projects\BasicManipulation\BasicManipulation\obj\Debug\MainWindow.baml
+c:\users\alexi\onedrive\documents\visual studio 2015\Projects\BasicManipulation\BasicManipulation\obj\Debug\MainWindow.g.cs
+c:\users\alexi\onedrive\documents\visual studio 2015\Projects\BasicManipulation\BasicManipulation\obj\Debug\App.g.cs
+c:\users\alexi\onedrive\documents\visual studio 2015\Projects\BasicManipulation\BasicManipulation\obj\Debug\BasicManipulation_MarkupCompile.cache
+c:\users\alexi\onedrive\documents\visual studio 2015\Projects\BasicManipulation\BasicManipulation\obj\Debug\BasicManipulation.g.resources
+c:\users\alexi\onedrive\documents\visual studio 2015\Projects\BasicManipulation\BasicManipulation\obj\Debug\BasicManipulation.Properties.Resources.resources
+c:\users\alexi\onedrive\documents\visual studio 2015\Projects\BasicManipulation\BasicManipulation\obj\Debug\BasicManipulation.csproj.GenerateResource.Cache
+c:\users\alexi\onedrive\documents\visual studio 2015\Projects\BasicManipulation\BasicManipulation\obj\Debug\BasicManipulation.exe
+c:\users\alexi\onedrive\documents\visual studio 2015\Projects\BasicManipulation\BasicManipulation\obj\Debug\BasicManipulation.pdb
